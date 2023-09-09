@@ -1,2 +1,2 @@
 # cripto_R
-Scraping e AED sobre Criptomoedas no R
+Scraping e uma pequena AED sobre Criptomoedas no R
